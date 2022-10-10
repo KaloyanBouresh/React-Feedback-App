@@ -1,4 +1,3 @@
-import React from 'react';
 import { useState, useContext, useEffect } from "react"
 import FeedbackContext from "../context/FeedbackContext"
 

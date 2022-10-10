@@ -1,4 +1,3 @@
-import React from 'react';
 import PropTypes from 'prop-types' //define the type of the props
 
 function Header({ text }) {
